@@ -39,7 +39,8 @@ The following is an example of a predicted mask from the Oxford-IIIT Pet Dataset
 
 ![alt text](https://github.com/AliYoussef97/Mean-Teacher-Semi-Supervised-Semantic-Segmentation/blob/main/Figures/Figure_2.png)
 
-The model was tested on random animal images other than dogs and cats, and it performed fairly well. For example, the predicted mask for an Image containing Monkeys:
+
+The model was tested on random animal images other than cats and dogs (training data), and it performed fairly well. For example, the predicted mask for an Image containing Monkeys:
 
 ![alt text](https://github.com/AliYoussef97/Mean-Teacher-Semi-Supervised-Semantic-Segmentation/blob/main/Figures/Figure_3.png)
 
