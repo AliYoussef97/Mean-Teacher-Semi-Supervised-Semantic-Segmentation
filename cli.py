@@ -6,7 +6,7 @@ def parser():
                         help='Learning Rate')
     parser.add_argument('--lr_ramp_down', default=125, type=int,
                         help='Learning Rate ramp down')
-    parser.add_argument('--epochs', default=1, type=int,
+    parser.add_argument('--epochs', default=100, type=int,
                         help='Number of epochs')
     parser.add_argument('--img_size', default=256, type=int,
                         help='Image_size')
